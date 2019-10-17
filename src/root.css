@@ -1,0 +1,31 @@
+html,
+body,
+#root,
+.container {
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 0 10px;
+}
+
+.red {
+    background-color: darkred;
+}
+
+.blue {
+    background-color: deepskyblue;
+}
+
+.pink {
+    background-color: hotpink;
+}
